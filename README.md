@@ -5,7 +5,7 @@
 
 ## Hello World 👋
 Apaixonado por tecnologi, amante de javascript.
-Sou um estudante Front-End :computer:
+Estudande de JavaScript/Front-End :computer:
 
  :computer:  &nbsp; Estou estudando **JavaScript** com foco em **REACT e React Native**
  <br/> :star: &nbsp; Buscando colaborar com projetos em Front-end usando React
