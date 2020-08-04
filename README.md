@@ -12,7 +12,6 @@ Estudande de JavaScript/Front-End :computer:
  <br/> :blush: &nbsp; Brinco com CSS usando Grid Layout e Flex-Box
  <br/> :star: &nbsp; Minha stack: ReactJS, React Native 
  <br/> 💬  &nbsp; Sobre mim: Curto muito o desenvolvimento Web, curto jogar um Lolzinho o único jogo que sou bom! :star:
- <br/> :email: &nbsp; Entre em contato comigo: GMAIL: contatodevkayo@gmail.com
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/kayo-elias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://kayo-elias-gonçalves-verdan-b56124199/)](https://www.linkedin.com/in/kayo-elias-gonçalves-verdan-b56124199/)
  
 
