@@ -1,4 +1,4 @@
-<img width="auto" src="https://brainhub.eu/blog/wp-content/uploads/2019/04/why-react-js.png">
+<img width="auto" src="https://blogs.opovo.com.br/bancadoanime/wp-content/uploads/sites/59/2020/04/Imagem-1.jpg">
 
 
 # Kayo Elias
