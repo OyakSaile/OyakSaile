@@ -4,7 +4,7 @@
 # Kayo Elias
 
 ## Hello World 👋
-Apaixonado por tecnologi, amante de javascript.
+Apaixonado por tecnologia, amante de javascript.
 Estudande de JavaScript/Front-End :computer:
 
  :computer:  &nbsp; Estou estudando **JavaScript** com foco em **REACT e React Native**
