@@ -9,9 +9,9 @@ Estudande de JavaScript/Front-End :computer:
 
  :computer:  &nbsp; Estou estudando **JavaScript** com foco em **REACT e React Native**
  <br/> :star: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :blush: &nbsp; Brinco com CSS usando Grid Layout e Flex-Box
- <br/> :star: &nbsp; Minha stack: ReactJS, React Native 
- <br/> 💬  &nbsp; Sobre mim: Curto muito o desenvolvimento Web, curto jogar um Lolzinho o único jogo que sou bom! :star:
+ <br/> :blush: &nbsp; Grid Layout e Flex-Box
+ <br/> :star: &nbsp; HTML, CSS , JAVASCRIPT E REACT
+ <br/> 💬  &nbsp; Sobre mim: Curto muito o desenvolvimento Web, e jogar nas horas free. :star:
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/kayo-elias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://kayo-elias-gonçalves-verdan-b56124199/)](https://www.linkedin.com/in/kayo-elias-gonçalves-verdan-b56124199/)
  
 
