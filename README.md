@@ -1,4 +1,4 @@
-<img height='250px;'; width="auto" src="https://blogs.opovo.com.br/bancadoanime/wp-content/uploads/sites/59/2020/04/Imagem-1.jpg">
+<img height='250' width="auto" src="https://blogs.opovo.com.br/bancadoanime/wp-content/uploads/sites/59/2020/04/Imagem-1.jpg">
 
 
 # Kayo Elias
