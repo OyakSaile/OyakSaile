@@ -1,5 +1,6 @@
 <!-- <img height='250' width="auto" src="https://blogs.opovo.com.br/bancadoanime/wp-content/uploads/sites/59/2020/04/Imagem-1.jpg"> -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyaksaile&show_icons=true&theme=radical)
 
 # Kayo Elias
 
