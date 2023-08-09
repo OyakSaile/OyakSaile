@@ -15,7 +15,7 @@ ReactJS, TypeScript, NextJS ETC.. :computer:
 
 Olá, me chamo Kayo Elias e sou desenvolvedor Front-end apaixonado por tecnologia e Design
 
-- HTML, CSS e JavaScript, conhecimento sólido com mais 2 anos de experiência, consumo de API (nativo ou com plugins), criação de SPA e PWA dinâmicas, sempre responsivas e ótimo SEO, grande habilidade na solução de problemas e depuração de códigos.
+- HTML, CSS e JavaScript, conhecimento sólido com mais 5 anos de experiência, consumo de API (nativo ou com plugins), criação de SPA e PWA dinâmicas, sempre responsivas e ótimo SEO, grande habilidade na solução de problemas e depuração de códigos.
 - Compiladores e Supersets como SASS, Typescript e TalwindCSS.
 - Bibliotecas, Frameworks e seus derivados. React JS, Next JS, Ionic(React e Angular), Angular, Vite JS, Bootstrap, WebPack, Babel, Styled Components e Material UI, Framer-Motion, Chakra UI.
 - Desenvolvimento Mobile tanto para IOS E Android Usando React-Native, Expo e Ionic.
