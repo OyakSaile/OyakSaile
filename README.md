@@ -9,12 +9,8 @@
 # Kayo Elias👋
 
 
-Desenvolvedor Full-Stack
+Full-Stack Developer
 ReactJS, TypeScript, NextJS ETC.. :computer:
-
-Olá, Tudo bem?
-
-Me Chamo Kayo Elias, um garoto apaixonado por tecnolgia, gosto de impactar a vida das pessoas atrasves de código, precisa de alguma ajuda em algo? pode chamar, se tem uma coisa que eu gosto bastnate é ensinar haha.
 
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/kayo-elias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://kayo-elias-gonçalves-verdan-b56124199/)](https://www.linkedin.com/in/kayo-elias-gonçalves-verdan-b56124199/)
  
