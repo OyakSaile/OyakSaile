@@ -10,7 +10,7 @@
 
 
 Full-Stack Developer
-ReactJS, TypeScript, NextJS ETC.. :computer:
+ReactJS, TypeScript, NextJS, nodejs... :computer:
 
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/kayo-elias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://kayo-elias-gonçalves-verdan-b56124199/)](https://www.linkedin.com/in/kayo-elias-gonçalves-verdan-b56124199/)
  
